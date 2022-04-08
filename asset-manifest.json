@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.72ba3581.css",
-    "main.js": "/static/js/main.9c33adf2.js",
-    "static/js/787.cc4e593a.chunk.js": "/static/js/787.cc4e593a.chunk.js",
-    "static/media/avata3.png": "/static/media/avata3.13018459069321c12400.png",
-    "static/media/Nguyen-Trung-Tuan-TopCV.vn-050422.172146.pdf": "/static/media/Nguyen-Trung-Tuan-TopCV.vn-050422.172146.02addefc5628a14acb2b.pdf",
-    "static/media/dochimo.jpg": "/static/media/dochimo.8bc8b631a952cbd501d2.jpg",
-    "static/media/a.png": "/static/media/a.575d1ec887cd3ce9e963.png",
-    "index.html": "/index.html",
-    "main.72ba3581.css.map": "/static/css/main.72ba3581.css.map",
-    "main.9c33adf2.js.map": "/static/js/main.9c33adf2.js.map",
-    "787.cc4e593a.chunk.js.map": "/static/js/787.cc4e593a.chunk.js.map"
+    "main.css": "./static/css/main.72ba3581.css",
+    "main.js": "./static/js/main.c83e630f.js",
+    "static/js/787.cc4e593a.chunk.js": "./static/js/787.cc4e593a.chunk.js",
+    "static/media/avata3.png": "./static/media/avata3.13018459069321c12400.png",
+    "static/media/Nguyen-Trung-Tuan-TopCV.vn-050422.172146.pdf": "./static/media/Nguyen-Trung-Tuan-TopCV.vn-050422.172146.02addefc5628a14acb2b.pdf",
+    "static/media/dochimo.jpg": "./static/media/dochimo.8bc8b631a952cbd501d2.jpg",
+    "static/media/a.png": "./static/media/a.575d1ec887cd3ce9e963.png",
+    "index.html": "./index.html",
+    "main.72ba3581.css.map": "./static/css/main.72ba3581.css.map",
+    "main.c83e630f.js.map": "./static/js/main.c83e630f.js.map",
+    "787.cc4e593a.chunk.js.map": "./static/js/787.cc4e593a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72ba3581.css",
-    "static/js/main.9c33adf2.js"
+    "static/js/main.c83e630f.js"
   ]
 }
